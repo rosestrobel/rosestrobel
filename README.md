@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rosestrobel
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Java, HTML, CSS, and Javascript
+- 👀 I’m interested in cybersecurity
 - 📫 How to reach me rosestrobel0@gmail.com
 
 <!---
